@@ -1,5 +1,3 @@
 # MyFirstRepo
-# MyFirstRepo
-# MyFirstRepo
-# MyFirstRepo
-"# MyFirstRepo" 
+This is my first repo.
+
